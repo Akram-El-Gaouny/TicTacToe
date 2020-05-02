@@ -5,10 +5,10 @@ To play the game simply execute the Run.py file and that will prompt the game. E
 
 Files:
 
-1 - Run.py
-2 - ComputerPlayer.py
-3 - HumanPlayer.py
-4 - myExceptions.py
-5 - gameState.py
-6 - val.py
-7 - TicTacToe.py
+ - Run.py
+ - ComputerPlayer.py
+ - HumanPlayer.py
+ - myExceptions.py
+ - gameState.py
+ - val.py
+ - TicTacToe.py
